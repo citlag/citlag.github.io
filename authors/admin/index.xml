@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Citlalli Gámez Serna</title>
+    <link>https://citlag.github.io/authors/admin/</link>
+    <description>Recent content in admin on Citlalli Gámez Serna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019</copyright>
+    
+	<atom:link href="https://citlag.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://citlag.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://citlag.github.io/author/admin/</guid>
+      <description>Currently I pursue my PhD degree Multi-sources based perception and localization for autonomous driving in urban environments. I work with raw sensors data (GPS, gyroscope, stereo camera, vehicle) in order to perform accurate path tracking. My thesis is focused on the vehicle control part covering deep learning techniques for the environment perception and localization.
+During my master thesis I focused on the field of computer vision conducting research at Centre de Recherche et de Restauration des Musées de France (C2RMF) and Laboratoire Hubert Curien to digitize in 3D objects of the Louvre Museum.</description>
+    </item>
+    
+  </channel>
+</rss>
