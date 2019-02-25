@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Citlalli Gámez Serna</title>
+    <link>https://citlag.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Citlalli Gámez Serna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019</copyright>
+    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://citlag.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gps-Based Curve Estimation for an Adaptive Pure Pursuit Algorithm</title>
+      <link>https://citlag.github.io/publication/gps/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://citlag.github.io/publication/gps/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Data Fusion of Objects Using Techniques Such as Laser Scanning, Structured Light and Photogrammetry for Cultural Heritage Applications</title>
+      <link>https://citlag.github.io/publication/3d/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://citlag.github.io/publication/3d/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
